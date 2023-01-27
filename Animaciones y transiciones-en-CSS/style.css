@@ -3,13 +3,9 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-
 }
-
-
 .btn-modern{
     padding: 5px 10px;
-   
     color: white;
     background-color: blue;
     border: none;
