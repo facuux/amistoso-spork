@@ -22,6 +22,3 @@ body{
     background-color: rgba(45, 206, 255);
     color: black;
 }
-.btn-modern:hover{
-    box-shadow: inset;
-}
